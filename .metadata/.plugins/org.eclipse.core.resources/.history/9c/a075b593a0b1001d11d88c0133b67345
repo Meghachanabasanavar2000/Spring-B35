@@ -1,0 +1,10 @@
+package org.tnsindia.springwebapp;
+
+@SpringBootTest
+class springwebappApplicationtests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
